@@ -21,7 +21,7 @@ Welcome to my portfolio. Explore my work, education, and passions in tech.
 
 <div id="about"></div>
 
-## About Me
+## 👩‍💻About Me
 I'm a dedicated Computer Science student at University of Sri Jayewardenepura, deeply enthusiastic about the world of coding and technology.
 
 ---
@@ -30,7 +30,7 @@ I'm a dedicated Computer Science student at University of Sri Jayewardenepura, d
 
 ## Education & Certifications
 
-### Education
+###🎓 Education
 - **Musaeus College (2007–2021)** – 9A's (O/Ls), 2B's 1A (A/Ls)  
 - **ESOFT Metro Campus (2021–2022)** – Diploma in ICT (Best Performer)  
 - **University of Sri Jayawardenepura (2023–2027)** – BSc (Hons) Computer Science  
@@ -55,7 +55,7 @@ I'm a dedicated Computer Science student at University of Sri Jayewardenepura, d
 
 <div id="skills"></div>
 
-## Skills
+## 🛠️ Skills
 
 **Coding:**  
 HTML, Python, Java, C, C#, MATLAB  
@@ -67,7 +67,7 @@ Web Design, Photoshop, Canva, Microsoft Office, Analytical Thinking
 
 <div id="experience"></div>
 
-## Experience
+## 💼 Experience
 
 ### Digital Marketing Intern – Hatton National Bank  
 *(Oct 2022 – Jan 2023)*  
@@ -85,7 +85,7 @@ Web Design, Photoshop, Canva, Microsoft Office, Analytical Thinking
 
 <div id="contact"></div>
 
-## Contact Me
+## 📬Contact Me
 
 You can reach me at:  
  `dulanyas.mus@gmail.com`  
