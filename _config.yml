@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: "WELCOME! I'm Senuli Suraweera"
+includes:
+  - style
