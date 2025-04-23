@@ -30,7 +30,7 @@ I'm a dedicated Computer Science student at University of Sri Jayewardenepura, d
 
 ## Education & Certifications
 
-###🎓 Education
+### 🎓Education
 - **Musaeus College (2007–2021)** – 9A's (O/Ls), 2B's 1A (A/Ls)  
 - **ESOFT Metro Campus (2021–2022)** – Diploma in ICT (Best Performer)  
 - **University of Sri Jayawardenepura (2023–2027)** – BSc (Hons) Computer Science  
