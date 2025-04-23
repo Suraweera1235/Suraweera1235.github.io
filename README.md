@@ -26,7 +26,7 @@ Passionate Computer Science student with interests in Cyber Security, AI, and Ma
 
 ---
 
-## 🛠 Skills
+## Skills
 
 **Coding:**  
 HTML, Python, Java, C, C#, MATLAB  
@@ -55,8 +55,8 @@ Web Design, Photoshop, Canva, Microsoft Office, Analytical Thinking
 ## Contact Me
 
 You can reach me at:  
-📧 `youremail@example.com`  
-📱 `+94 7X XXX XXXX`  
+ `youremail@example.com`  
+ `+94 7X XXX XXXX`  
 
 Connect on:  
 - [LinkedIn](#)  
