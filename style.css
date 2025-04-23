@@ -1,0 +1,15 @@
+/* Example: Change background and text color */
+body {
+  background-color: #f4f4fc;
+  color: #333;
+}
+
+/* Change the header color */
+h1, h2, h3, h4, h5, h6 {
+  color: #4b0082; /* Indigo */
+}
+
+/* Change navbar links */
+a {
+  color: #4b0082;
+}
