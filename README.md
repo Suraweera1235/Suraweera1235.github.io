@@ -35,50 +35,20 @@ I'm a dedicated Computer Science student at University of Sri Jayewardenepura, d
 - **ESOFT Metro Campus (2021–2022)** – Diploma in ICT (Best Performer)  
 - **University of Sri Jayawardenepura (2023–2027)** – BSc (Hons) Computer Science  
 
-### Certifications
-🏅 Licenses & Certifications
-|
-| Artificial Intelligence Essentials V2
-Coursera
-Issued Oct 2024
-| |---|---|
+### 🏅 Licenses & Certifications
 
-|
-| Business Analysis & Process Management
-Coursera Project Network
-Issued May 2024
-| |
-| Diploma in C++ Fundamentals
-Alison
-Issued Jan 2024
-Credential ID: 3029-29097573 | |
-| Java Intermediate
-Sololearn
-Issued Jan 2024
-| |
-| MATLAB Onramp
-MathWorks
-Issued Jan 2024
-| |
-| Certificate of Excellence – Best Performance
-ESOFT Metro Campus
-Issued Jul 2023
-| |
-| Introduction to Canva
-Alison
-Issued Mar 2023
-Credential ID: 5313-29097573 | |
-| Introduction to Artificial Intelligence (AI)
-IBM
-Issued Sep 2024 – Expired Oct 2024 | |
-| Intro to Programming Using Python
-University of Moratuwa
-Issued Oct 2022 – Expired Jan 2023
-Credential ID: RD2nzfAR6j | |
-| Intro to Programming Using Java
-Sololearn
-
-
+| Certificate | Issuer | Date | Credential ID / Link |
+|------------|--------|------|-----------------------|
+| Artificial Intelligence Essentials V2 | Coursera | Oct 2024 | – |
+| Business Analysis & Process Management | Coursera Project Network | May 2024 | EHACTX54T6EV [📄 Show Credential](Coursera%20EHACTX54T6EV.pdf) |
+| Diploma in C++ Fundamentals | Alison | Jan 2024 | 3029-29097573 |
+| Java Intermediate | Sololearn | Jan 2024 | – |
+| MATLAB Onramp | MathWorks | Jan 2024 | – |
+| Certificate of Excellence – Best Performance | ESOFT Metro Campus | Jul 2023 | – |
+| Introduction to Canva | Alison | Mar 2023 | 5313-29097573 |
+| Introduction to Artificial Intelligence (AI) | IBM | Sep 2024 – Oct 2024 | – |
+| Introduction to Programming Using Python | University of Moratuwa | Oct 2022 – Jan 2023 | RD2nzfAR6j |
+| Introduction to Programming Using Java | Sololearn | – | – |
 
 
 ---
