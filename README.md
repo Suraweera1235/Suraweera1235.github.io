@@ -1,4 +1,4 @@
-
+<img src="SDS.jpg" alt="Senuli Suraweera" width="200" style="border-radius: 50%; display: block; margin: 0 auto;"/>
 # Hi, I'm **Senuli Suraweera**
 ###  Undergraduate | University of Sri Jayawardenepura  
 Welcome to my portfolio. Explore my work, education, and passions in tech.
