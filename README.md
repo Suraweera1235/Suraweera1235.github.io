@@ -1,18 +1,35 @@
-# **WELCOME**
-<img src="SDS.jpg" alt="Senuli Suraweera" width="200" style="border-radius: 60%; display: block; margin: 0 auto;"/>
+<nav style="position: sticky; top: 0; background: #fff; z-index: 1000; padding: 10px 0; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <a href="#welcome" style="margin: 0 15px;">Home</a>
+  <a href="#about" style="margin: 0 15px;">About Me</a>
+  <a href="#education" style="margin: 0 15px;">Education</a>
+  <a href="#skills" style="margin: 0 15px;">Skills</a>
+  <a href="#experience" style="margin: 0 15px;">Experience</a>
+  <a href="#contact" style="margin: 0 15px;">Contact</a>
+</nav>
+
+---
+
+<div id="welcome"></div>
+
+# **WELCOME !**
+<img src="SDS.jpg" alt="Senuli Suraweera" width="200" height="200" style="border-radius: 50%; display: block; margin: 0 auto;" />
 
 # Hi, I'm **Senuli Suraweera**
-###  Undergraduate | University of Sri Jayawardenepura  
+### Undergraduate | University of Sri Jayawardenepura  
 Welcome to my portfolio. Explore my work, education, and passions in tech.
 
 ---
 
-##  About Me
+<div id="about"></div>
+
+## About Me
 Passionate Computer Science student with interests in Cyber Security, AI, and Machine Learning...
 
 ---
 
-##  Education & Certifications
+<div id="education"></div>
+
+## Education & Certifications
 
 ### Education
 - **Musaeus College (2007–2021)** – 9A's (O/Ls), 2B's 1A (A/Ls)  
@@ -28,6 +45,8 @@ Passionate Computer Science student with interests in Cyber Security, AI, and Ma
 
 ---
 
+<div id="skills"></div>
+
 ## Skills
 
 **Coding:**  
@@ -37,6 +56,8 @@ HTML, Python, Java, C, C#, MATLAB
 Web Design, Photoshop, Canva, Microsoft Office, Analytical Thinking
 
 ---
+
+<div id="experience"></div>
 
 ## Experience
 
@@ -54,6 +75,8 @@ Web Design, Photoshop, Canva, Microsoft Office, Analytical Thinking
 
 ---
 
+<div id="contact"></div>
+
 ## Contact Me
 
 You can reach me at:  
@@ -63,8 +86,6 @@ You can reach me at:
 Connect on:  
 - [LinkedIn](https://www.linkedin.com/in/senuli-suraweera-5b8913294?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLxym9wHJTfaQ%2BcnkvR%2BmWw%3D%3D)  
 
-
 ---
 
 © 2024 Senuli Suraweera. All rights reserved.
-
