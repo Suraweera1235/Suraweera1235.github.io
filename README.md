@@ -1,7 +1,3 @@
----
-layout: default
-title: Senuli Suraweera
----
 
 # 👋 Hi, I'm **Senuli Suraweera**
 ### 🎓 Undergraduate | University of Sri Jayawardenepura  
