@@ -1,16 +1,16 @@
 
-# 👋 Hi, I'm **Senuli Suraweera**
-### 🎓 Undergraduate | University of Sri Jayawardenepura  
+# Hi, I'm **Senuli Suraweera**
+###  Undergraduate | University of Sri Jayawardenepura  
 Welcome to my portfolio. Explore my work, education, and passions in tech.
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 Passionate Computer Science student with interests in Cyber Security, AI, and Machine Learning...
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
 ### Education
 - **Musaeus College (2007–2021)** – 9A's (O/Ls), 2B's 1A (A/Ls)  
@@ -36,7 +36,7 @@ Web Design, Photoshop, Canva, Microsoft Office, Analytical Thinking
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Digital Marketing Intern – Hatton National Bank  
 *(Oct 2022 – Jan 2023)*  
@@ -52,7 +52,7 @@ Web Design, Photoshop, Canva, Microsoft Office, Analytical Thinking
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 You can reach me at:  
 📧 `youremail@example.com`  
