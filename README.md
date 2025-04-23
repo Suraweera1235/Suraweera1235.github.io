@@ -1,62 +1,73 @@
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+---
+layout: default
+title: Senuli Suraweera
+---
 
-Alternatively, for H1 and H2, an underline-ish style:
+# 👋 Hi, I'm **Senuli Suraweera**
+### 🎓 Undergraduate | University of Sri Jayawardenepura  
+Welcome to my portfolio. Explore my work, education, and passions in tech.
 
-Alt-H1
-======
+---
 
-Alt-H2
-------
+## 🧑‍💻 About Me
+Passionate Computer Science student with interests in Cyber Security, AI, and Machine Learning...
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+---
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+## 🎓 Education & Certifications
 
-Combined emphasis with **asterisks and _underscores_**.
+### Education
+- **Musaeus College (2007–2021)** – 9A's (O/Ls), 2B's 1A (A/Ls)  
+- **ESOFT Metro Campus (2021–2022)** – Diploma in ICT (Best Performer)  
+- **University of Sri Jayawardenepura (2023–2027)** – BSc (Hons) Computer Science  
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+### Certifications
+- Java Intermediate – Sololearn  
+- MATLAB Onramp – MathWorks  
+- Canva – Alison  
+- Python Programming – University of Moratuwa  
+- Certificate of Excellence – ESOFT
 
+---
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+## 🛠 Skills
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+**Coding:**  
+HTML, Python, Java, C, C#, MATLAB  
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+**Other:**  
+Web Design, Photoshop, Canva, Microsoft Office, Analytical Thinking
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+---
 
-[I'm an inline-style link](https://www.google.com)
+## 💼 Experience
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+### Digital Marketing Intern – Hatton National Bank  
+*(Oct 2022 – Jan 2023)*  
+- Social media management  
+- Content creation  
+- Digital campaigns
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+### Prefect – Musaeus College  
+*(Jan 2021 – Apr 2022)*  
+- Leadership  
+- Event organization  
+- Discipline management
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+---
 
-[You can use numbers for reference-style link definitions][1]
+## 📬 Contact Me
 
-Or leave it empty and use the [link text itself].
+You can reach me at:  
+📧 `youremail@example.com`  
+📱 `+94 7X XXX XXXX`  
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+Connect on:  
+- [LinkedIn](#)  
+- [Instagram](#)  
+- [Facebook](#)
 
-Some text to show that the reference links can follow later.
+---
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+© 2024 Senuli Suraweera. All rights reserved.
+
