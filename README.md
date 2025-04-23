@@ -20,7 +20,7 @@
 </nav>
 
 ---
-
+<div id="body">
 <div id="welcome"></div>
 
 <img src="SDS.jpg" alt="Senuli Suraweera" width="200" height="300" style="border-radius: 50%; display: block; margin: 0 auto;" />
@@ -102,7 +102,7 @@ Web Design, Photoshop, Canva, Microsoft Office, Analytical Thinking
 You can reach me at:  
 **Email:** `dulanyas.mus@gmail.com`  
 **Phone:** `+94 760593350`    
-
+</div>
 Connect on:  
 - [LinkedIn](https://www.linkedin.com/in/senuli-suraweera-5b8913294?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLxym9wHJTfaQ%2BcnkvR%2BmWw%3D%3D)  
 
