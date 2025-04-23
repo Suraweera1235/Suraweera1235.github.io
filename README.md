@@ -22,7 +22,7 @@ Welcome to my portfolio. Explore my work, education, and passions in tech.
 <div id="about"></div>
 
 ## About Me
-Passionate Computer Science student with interests in Cyber Security, AI, and Machine Learning...
+I'm a dedicated Computer Science student at University of Sri Jayewardenepura, deeply enthusiastic about the world of coding and technology.
 
 ---
 
