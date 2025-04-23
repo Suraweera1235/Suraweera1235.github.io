@@ -1,4 +1,16 @@
-<nav id="a" style="position: sticky; top: 0; background: #fff; z-index: 1000; padding: 10px 0; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+<style>
+  body {
+    background-color: #fefefe;
+    color: #333333;
+  }
+  h1 {
+    color: #003366;
+  }
+  a {
+    color: #008080;
+  }
+</style>
+<nav style="position: sticky; top: 0; background: #fff; z-index: 1000; padding: 10px 0; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   <a href="#welcome" style="margin: 0 15px;">Home</a>
   <a href="#about" style="margin: 0 15px;">About Me</a>
   <a href="#education" style="margin: 0 15px;">Education</a>
