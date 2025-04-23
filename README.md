@@ -12,7 +12,7 @@
 <div id="welcome"></div>
 
 # **WELCOME !**
-<img src="SDS.jpg" alt="Senuli Suraweera" width="200" height="200" style="border-radius: 50%; display: block; margin: 0 auto;" />
+<img src="SDS.jpg" alt="Senuli Suraweera" width="200" height="300" style="border-radius: 50%; display: block; margin: 0 auto;" />
 
 # Hi, I'm **Senuli Suraweera**
 ### Undergraduate | University of Sri Jayawardenepura  
