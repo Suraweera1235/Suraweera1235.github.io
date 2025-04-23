@@ -36,11 +36,50 @@ I'm a dedicated Computer Science student at University of Sri Jayewardenepura, d
 - **University of Sri Jayawardenepura (2023–2027)** – BSc (Hons) Computer Science  
 
 ### Certifications
-- Java Intermediate – Sololearn  
-- MATLAB Onramp – MathWorks  
-- Canva – Alison  
-- Python Programming – University of Moratuwa  
-- Certificate of Excellence – ESOFT
+🏅 Licenses & Certifications
+|
+| Artificial Intelligence Essentials V2
+Coursera
+Issued Oct 2024
+| |---|---|
+
+|
+| Business Analysis & Process Management
+Coursera Project Network
+Issued May 2024
+| |
+| Diploma in C++ Fundamentals
+Alison
+Issued Jan 2024
+Credential ID: 3029-29097573 | |
+| Java Intermediate
+Sololearn
+Issued Jan 2024
+| |
+| MATLAB Onramp
+MathWorks
+Issued Jan 2024
+| |
+| Certificate of Excellence – Best Performance
+ESOFT Metro Campus
+Issued Jul 2023
+| |
+| Introduction to Canva
+Alison
+Issued Mar 2023
+Credential ID: 5313-29097573 | |
+| Introduction to Artificial Intelligence (AI)
+IBM
+Issued Sep 2024 – Expired Oct 2024 | |
+| Intro to Programming Using Python
+University of Moratuwa
+Issued Oct 2022 – Expired Jan 2023
+Credential ID: RD2nzfAR6j | |
+| Intro to Programming Using Java
+Sololearn
+
+
+
 
 ---
 
