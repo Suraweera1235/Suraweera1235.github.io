@@ -34,7 +34,13 @@ Welcome to my portfolio. Explore my work, education, and passions in tech.
 <div id="about"></div>
 
 ## 👩‍💻About Me
-I'm a dedicated Computer Science student at University of Sri Jayewardenepura, deeply enthusiastic about the world of coding and technology.
+I'm a passionate and driven Computer Science undergraduate at the University of Sri Jayewardenepura, with a deep enthusiasm for software development, AI, and digital innovation. Ever since I began my journey in tech, I’ve been fascinated by how code can be used to build impactful solutions.
+
+I enjoy exploring new technologies, participating in hands-on projects, and continuously improving my skills. Whether it's building a website, diving into machine learning, or designing digital content, I find excitement in every challenge.
+
+I'm also a quick learner with a sharp eye for detail, and I love bringing creativity into problem-solving — blending analytical thinking with design to create user-friendly solutions.
+
+
 
 ---
 
