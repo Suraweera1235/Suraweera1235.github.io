@@ -25,7 +25,7 @@
 
 <img src="SDS.jpg" alt="Senuli Suraweera" width="200" height="300" style="border-radius: 50%; display: block; margin: 0 auto;" />
 
-# Hello!
+# Welcome to my personal portfolio
 ### I'm an Undergraduate at University of Sri Jayawardenepura  
 Welcome to my portfolio. Explore my work, education, and passions in tech.
 
