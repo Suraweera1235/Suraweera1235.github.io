@@ -22,8 +22,7 @@
   }
 </style>
 <div id="welcome"></div>
-Explore my journey through Computer Science, innovation, and creativity.  
-Let's build the future together.
+Explore my journey through Computer Science, innovation, and creativity. Let's build the future together.
 
 [Learn More ↓](#about)
 <img src="SDS.jpg" alt="Senuli Suraweera" width="200" height="300" style="border-radius: 50%; display: block; margin: 0 auto;" />
