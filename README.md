@@ -84,22 +84,33 @@ Web Design, Photoshop, Canva, Microsoft Office, Analytical Thinking
 ---
 
 <div id="experience"></div>
-
 ## 💼 Experience
 
-### Digital Marketing Intern – Hatton National Bank  
-*(Oct 2022 – Jan 2023)*  
-- Social media management  
-- Content creation  
-- Digital campaigns
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
-### Prefect – Musaeus College  
-*(Jan 2021 – Apr 2022)*  
-- Leadership  
-- Event organization  
-- Discipline management
+  <div style="flex: 1; min-width: 280px; border: 2px solid #ccc; border-radius: 10px; padding: 16px;">
+    <h3>💼 Digital Marketing Intern</h3>
+    <p><strong>Hatton National Bank</strong><br>
+    <em>Oct 2022 – Jan 2023</em></p>
+    <ul>
+      <li>Managed social media platforms</li>
+      <li>Created engaging digital content</li>
+      <li>Contributed to digital campaigns</li>
+    </ul>
+  </div>
 
----
+  <div style="flex: 1; min-width: 280px; border: 2px solid #ccc; border-radius: 10px; padding: 16px;">
+    <h3>🎓 Prefect</h3>
+    <p><strong>Musaeus College</strong><br>
+    <em>Jan 2021 – Apr 2022</em></p>
+    <ul>
+      <li>Led student initiatives</li>
+      <li>Organized school events</li>
+      <li>Promoted discipline and leadership</li>
+    </ul>
+  </div>
+
+</div>
 
 <div id="contact"></div>
 
