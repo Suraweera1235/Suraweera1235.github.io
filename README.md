@@ -38,7 +38,7 @@ I'm a passionate and driven Computer Science undergraduate at the University of 
 
 I enjoy exploring new technologies, participating in hands-on projects, and continuously improving my skills. Whether it's building a website, diving into machine learning, or designing digital content, I find excitement in every challenge.
 
-I'm also a quick learner with a sharp eye for detail, and I love bringing creativity into problem-solving — blending analytical thinking with design to create user-friendly solutions.
+I'm also a quick learner with a sharp eye for detail, and I love bringing creativity into problem-solving blending analytical thinking with design to create user-friendly solutions.
 
 
 
